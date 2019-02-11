@@ -1,4 +1,4 @@
-# STIA415_Exercise06_save_load.py
+
 # Code snippet for saving/loading model weights.
 
    def save(self,file):
